@@ -1,15 +1,1 @@
-fatal: not a git repository (or any of the parent directories): .git
-fatal: not a git repository (or any of the parent directories): .git
-fatal: not a git repository (or any of the parent directories): .git
-Code Pushed Success
-fatal: not a git repository (or any of the parent directories): .git
-fatal: not a git repository (or any of the parent directories): .git
-fatal: not a git repository (or any of the parent directories): .git
-Code Pushed Success
-[main f93f2ee] 2024-10-04 06:54:01
- 2 files changed, 10 insertions(+)
- create mode 100644 script_output.log
-To github.com:Bhargav16exd/github-greener.git
- ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at ccb23fd583af62e003f4adc7fb255418d9fb1de8 but expected 33912b019f9951edc6dc17e61ea646077c382f35)
-error: failed to push some refs to 'git@github.com:Bhargav16exd/github-greener.git'
-Code Pushed Success
+
